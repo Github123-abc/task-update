@@ -1,0 +1,32 @@
+9 to 2  --->   python program - output  - Hello World
+                c - language 		- Hello World
+
+2:30     -----> shell script 	--	hello world 	
+
+
+
+
+  3:30
+---------   
+installing jenkins and jenkins shell installing tomcat in execute shell in progress
+
+
+
+
+4:00
+------
+cluster creation-
+----------------
+eksctl create cluster \
+--name k8-cluster \
+--version 1.18 \
+--region us-east-1 \
+--nodegroup-name linux \
+--nodes 0 \
+--nodes-min 0 \
+--nodes-max 1 \
+--with-oidc \
+--ssh-access \
+--ssh-public-key sing \
+--managed
+
