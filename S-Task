@@ -1,0 +1,7 @@
+
+one load balancer - attach to michens
+            
+	          1.tomcat 
+		   2. jenkins
+		        
+access out side load balancer end point result - tomcat page and jenkins page
