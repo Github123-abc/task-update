@@ -1,0 +1,33 @@
+  1....) using jenkin shell installing  1.tomcat
+                                        2.apache
+                                         3.nginx
+
+
+
+
+2...) 100 linux commands and why we use that command
+
+3..)in ubuntu os installing 1.) jenkins
+
+                            2.) apache 
+
+                            3.) nginx
+
+
+
+5.) rought 53 
+          
+                 types of records    - A - record
+                                      - C - record
+                                       - Alias - record
+
+
+4.) launching 3 ec2-instances
+
+
+                               1.   apache-- stop ,start
+                                2. nginx -- stop , start
+                               3. tomcat -- stop , start
+
+
+
