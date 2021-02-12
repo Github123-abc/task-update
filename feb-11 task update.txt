@@ -1,0 +1,39 @@
+creating ami:>
+==================================================
+
+1. select instance ,
+2. actions and ,
+3. select image and templates
+4. select create image and image name save
+
+share ami:>
+===================================================
+
+1. select ami   and actions 
+2. copy ami select which region
+3. copy ami 
+
+
+===============================================
+
+nslookup for 20 websites
+ google.com
+  fb 
+  youtube
+ whats up 
+your domains 
+
+=================================================
+
+tail
+ sed
+awk
+head
+df
+du
+checking the linux health check commands
+
+=================================================
+
+display iam users using python
+print two numbers in python 
