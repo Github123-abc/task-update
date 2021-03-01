@@ -1,0 +1,12 @@
+datadog - datadog agents run in a instance = 3 make ami 
+
+create rds and insert the employee details
+
+static html pages
+ 
+sql joins 
+
+docker container runiing = 1.jenkins
+                           2.tomcat
+                           3.nginx
+                           4.httpd     

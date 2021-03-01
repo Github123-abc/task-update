@@ -1,0 +1,19 @@
+Provide ongoing technical support and maintenance of production and development systems and software products.
+Apache Tomcat installed on various platforms operating within a defined operating model and processes Provide L2/L3 software support and 
+implement technology at the operating system-level across all server, and for particular software solutions.
+
+
+Good experience with team focus and client service work  environments.
+
+Knowledge of web and application servers and their configuration.
+Good knoledge of working/troubleshooting experiences on LINUX/UNIX/Windows environments.
+Experience with Ant, Code Management, Jenkins is a plus.
+Work with the Team Lead and technical team members to support development and implementation activities 24/7 Mon – Sat and on release weekends.
+Deploy, support, and troubleshoot applications on Tomcat.
+Maintain and troubleshoot server logs.
+Manage application deployments in Prod and Non-Prod Apache environments.
+Monitoring of Apache Tomcat environment.
+Installation and Configuration of Apache web servers
+Monitoring & Health-Check of web and application server environments
+Performance Tuning of Apache web server environment
+Administration of Apache Tomcat server

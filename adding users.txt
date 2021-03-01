@@ -1,0 +1,16 @@
+
+
+
+
+useradd  username = adding users
+
+cat /etc/passwd  = check how many users are there
+cat /etc/shadow = check how many users are there
+
+userdel username = deleting users
+
+ useradd -G 1004 user2
+            g id usr name    = adding users in group
+
+
+
